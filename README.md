@@ -40,20 +40,23 @@ A modern offline Android Music Player developed using **Java** and **Android Stu
 
 ### Home Screen
 
-![Home](screenshots/home.png)
+![Home](<img width="320" height="700" alt="home png" src="https://github.com/user-attachments/assets/ad7cdfba-6673-4080-8c55-a946be194a14" />
+)
 
 
 ---
 
 ### Music Player
 
-![Player](screenshots/player.png)
+![Player](<img width="320" height="700" alt="player png" src="https://github.com/user-attachments/assets/2644d869-e3d1-4715-89b0-9e64cc13f871" />
+)
 
 ---
 
-### Playlist
+### Equalizer
 
-![Playlist](screenshots/playlist.png)
+![Equalizer](<img width="320" height="700" alt="Equalizer" src="https://github.com/user-attachments/assets/43bb9282-4ac6-4bc3-9f43-d22a11abf9c8" />
+)
 
 ---
 
