@@ -1,34 +1,119 @@
 # 🎵 OffBeat Music Player
 
-OffBeat Music Player is a modern Android offline music player developed using Java and Android Studio.
+![Android](https://img.shields.io/badge/Android-Java-green?style=for-the-badge&logo=android)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-Latest-3DDC84?style=for-the-badge&logo=androidstudio)
+![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
 
-## Features
+A modern offline Android Music Player developed using **Java** and **Android Studio**.
 
-- 🎵 Play local music
-- ⏯ Play / Pause
-- ⏭ Next / Previous
+---
+
+## 📱 Features
+
+- 🎵 Offline Music Playback
+- ▶️ Play / Pause Songs
+- ⏭ Next / Previous Controls
+- 🎚 Playback Speed Control
 - 📂 Music Library
-- 📃 Playlists
-- ⚙ Settings
-- 🎚 Playback Speed
-- 📱 Beautiful Material UI
+- ❤️ Favorites
+- 📃 Playlist Management
+- 🔍 Search Songs
+- 🎨 Beautiful Material UI
+- 📱 Responsive Layout
 
-## Technologies
+---
+
+## 🛠 Technologies Used
 
 - Java
 - Android Studio
 - XML
+- Android SDK
 - MediaPlayer API
 - RecyclerView
+- Material Design
 
-## Screenshots
+---
 
-<img width="320" height="800" alt="WhatsApp Image 2026-06-27 at 11 11 30 PM" src="https://github.com/user-attachments/assets/3f29b8e4-b724-42da-8602-737c658ab183" />
-<img width="320" height="800" alt="WhatsApp Image 2026-06-27 at 11 11 30 PM (1)" src="https://github.com/user-attachments/assets/545f31e3-6d09-40b0-b0b1-64de37c9c015" />
-<img width="320" height="800" alt="WhatsApp Image 2026-06-27 at 11 11 31 PM" src="https://github.com/user-attachments/assets/b93e8317-7732-4305-b6f4-e78808f52c2a" />
+## 📸 Screenshots
+
+### Home Screen
+
+![Home](screenshots/home.png)
 
 
-## Developed By
+---
 
-Muhammad Hammad
+### Music Player
+
+![Player](screenshots/player.png)
+
+---
+
+### Playlist
+
+![Playlist](screenshots/playlist.png)
+
+---
+
+## 📂 Project Structure
+
+```
+app
+ ┣ activities
+ ┣ adapters
+ ┣ models
+ ┣ services
+ ┣ utils
+ ┣ res
+```
+
+---
+
+## 🚀 Installation
+
+Clone the repository
+
+```bash
+git clone https://github.com/MuhammadHammad2alt/OffBeat-Music-Player.git
+```
+
+Open the project using Android Studio.
+
+Sync Gradle.
+
+Run the application.
+
+---
+
+## 👨‍💻 Developer
+
+**Muhammad Hammad**
+
+BS Data Science
+
 University of Haripur
+
+GitHub:
+https://github.com/MuhammadHammad2alt
+
+---
+
+## ⭐ Future Features
+
+- Equalizer
+- Lyrics
+- Dark Mode
+- Cloud Backup
+- Firebase Login
+- Sleep Timer
+- Bluetooth Controls
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License.
+
+⭐ Don't forget to Star this repository if you like it.
