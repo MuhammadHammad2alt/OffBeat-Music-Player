@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Purple theme -->
+    <color name="purple_primary">#7C4DCC</color>
+    <color name="purple_dark">#5C35A0</color>
+    <color name="purple_light">#9C6FE4</color>
+    <color name="purple_deep">#2D1B69</color>
+
+    <!-- Text -->
+    <color name="text_dark">#1A1A2E</color>
+    <color name="text_grey">#888888</color>
+    <color name="text_light_grey">#AAAAAA</color>
+    <color name="text_white">#FFFFFF</color>
+
+    <!-- Album art colors -->
+    <color name="art_purple">#7C4DCC</color>
+    <color name="art_pink">#E91E8C</color>
+    <color name="art_orange">#FF6D00</color>
+    <color name="art_teal">#00897B</color>
+    <color name="art_green">#43A047</color>
+    <color name="art_yellow">#F9A825</color>
+
+    <!-- Backgrounds -->
+    <color name="bg_light">#F8F6FF</color>
+    <color name="bg_white">#FFFFFF</color>
+    <color name="divider">#EEEEEE</color>
+</resources>

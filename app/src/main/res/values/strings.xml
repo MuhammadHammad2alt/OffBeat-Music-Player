@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">offbeat music player</string>
+    <string name="title_activity_equalizer">EqualizerActivity</string>
+</resources>

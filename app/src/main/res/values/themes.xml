@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Main app theme (light, purple accent) -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">#7C4DCC</item>
+        <item name="colorPrimaryDark">#5C35A0</item>
+        <item name="colorAccent">#7C4DCC</item>
+        <item name="android:windowBackground">#F8F6FF</item>
+        <item name="android:statusBarColor">#5C35A0</item>
+    </style>
+
+    <!-- Player screen theme (dark purple, immersive) -->
+    <style name="AppTheme.Player" parent="Theme.AppCompat.NoActionBar">
+        <item name="colorPrimary">#4A1F8C</item>
+        <item name="colorPrimaryDark">#2D0F6A</item>
+        <item name="colorAccent">#CC88FF</item>
+        <item name="android:windowBackground">#2D1B69</item>
+        <item name="android:statusBarColor">#2D0F6A</item>
+        <item name="android:navigationBarColor">#2D1B69</item>
+    </style>
+
+    <style name="Theme.OffbeatMusicPlayer" parent="android:Theme.Material.Light.NoActionBar" />
+
+</resources>
